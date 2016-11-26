@@ -1,0 +1,19 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "用户在浏览器输入该地址后，返回用户的 IP 地址，语言，操作系统等信息。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangmuren/MyWhoami.git"
+  },
+  "author": "xuefeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangmuren/MyWhoami/issues"
+  },
+  "homepage": "https://github.com/liangmuren/MyWhoami#readme"
+}
